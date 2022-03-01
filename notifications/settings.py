@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'notificationApp.apps.NotificationappConfig',
 
     'rest_framework',
+    'crispy_forms',
 ]
 
 MIDDLEWARE = [
